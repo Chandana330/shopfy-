@@ -81,3 +81,5 @@ Extract more structured FAQs and social media links
 yaml
 Copy
 Edit
+Access API Documentation:
+Open http://127.0.0.1:8000/docs in your browser and test /fetch_insights/?website_url=<shopify-url>
